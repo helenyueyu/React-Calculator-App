@@ -1,0 +1,21 @@
+
+.title {
+  margin: 0;
+  padding: 0;
+}
+.calculator {
+  text-align: center;
+  background-color: #58427c;
+  width: 65vw;
+  display: block;
+  border-radius: 20px;
+  margin: auto;
+  box-shadow: 5px 10px; 
+}
+.invisible {
+  height: 0vh;
+  color: #58427c;
+}
+body, html {
+  background-color: darkgrey;
+}
